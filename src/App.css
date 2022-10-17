@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+p{
+  font-weight: 500;
+}
+.btn{
+  width: 100px;
+  background-color: rgb(50, 50, 24);
+  border: none;
+  margin-left: 10px;
+  color: white;
+  border-radius: 30px;
+  font-weight: 900;
+  cursor: pointer;
+}
